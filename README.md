@@ -9,4 +9,4 @@ We are going to go through a journey together, to establish a common baseline, I
 
 Join me in this fight, I know not where it goes, only that it is a fight that must be waged. 
 
-Let us begin, with the [Prelude to War](https://github.com/SharePointing/WW3/wiki/Prelude-to-War)
+If you want to see but one small aspect of this war we are fighting, and how it manifests itself today, check out the: [Prelude to War](https://github.com/SharePointing/WW3/wiki/Prelude-to-War)

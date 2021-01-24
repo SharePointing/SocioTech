@@ -1,4 +1,4 @@
-# WW3 - A Fight to create a SocioTechnological Constitutional Republic
+# A Fight to create a SocioTechnological Constitutional Republic
 A Place to join the fight somewhere that we can govern, openly, honestly, transparently and for the public good. 
 
 Most activity right now is in [the wiki](https://github.com/SharePointing/WW3/wiki), eventually this will be an artifact respository to hold important things taht need revision over time. 
